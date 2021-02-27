@@ -1,0 +1,16 @@
+----------------------------------------------------------
+library ieee;
+use ieee.std_logic_1164.all;
+----------------------------------------------------------
+entity eee is
+port(	--Declaración de los puertos de entrada y salida
+
+);
+end eee;  
+-----------------------------------------------------------
+architecture aaa of eee is
+	-- declaraciones de tipos de datos y objetos
+begin
+  
+end aaa;
+------------------------------------------------------------
