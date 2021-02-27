@@ -8,9 +8,9 @@ FPGA EP2C5:
 
 Descripción del lenguaje
 Se requiere 3 elementos:
--Librerias (library) --> Se incluye librerias a usar.
--Entidad (Entity) --> Describe la entradas y salidas del diseño
--Arquitectura (Architecture) --> Contenido del diseño 
+- Librerias (library): Se incluye librerias a usar.
+- Entidad (Entity): Describe la entradas y salidas del diseño
+- Arquitectura (Architecture): Contenido del diseño 
 
 Useful links:
 - http://www.cs.columbia.edu/~sedwards/presentations/2018-vcf-fpga.pdf
