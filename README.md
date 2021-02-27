@@ -12,6 +12,26 @@ Se requiere 3 elementos:
 - Entidad (Entity): Describe la entradas y salidas del diseño
 - Arquitectura (Architecture): Contenido del diseño 
 
+Example:
+
+----------------------------------------------------------
+library ieee;
+use ieee.std_logic_1164.all;
+----------------------------------------------------------
+entity eee is
+port(	--Declaración de los puertos de entrada y salida
+
+);
+end eee;  
+-----------------------------------------------------------
+architecture aaa of eee is
+	-- declaraciones de tipos de datos y objetos
+begin
+  
+end aaa;
+------------------------------------------------------------
+
+
 Useful links:
 - http://www.cs.columbia.edu/~sedwards/presentations/2018-vcf-fpga.pdf
 - https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/cyc2/cyc2_cii5v1.pdf
