@@ -14,7 +14,7 @@ Se requiere 3 elementos:
 
 Example:
 
-[estructura de vhdl.txt](https://github.com/NiccolasR/VHDL/files/6054891/estructura.de.vhdl.txt)
+https://github.com/NiccolasR/VHDL/blob/main/estructura%20de%20vhdl.txt
 
 Useful links:
 - http://www.cs.columbia.edu/~sedwards/presentations/2018-vcf-fpga.pdf
