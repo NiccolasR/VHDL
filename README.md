@@ -14,23 +14,7 @@ Se requiere 3 elementos:
 
 Example:
 
-----------------------------------------------------------
-library ieee;
-use ieee.std_logic_1164.all;
-----------------------------------------------------------
-entity eee is
-port(	--Declaración de los puertos de entrada y salida
-
-);
-end eee;  
------------------------------------------------------------
-architecture aaa of eee is
-	-- declaraciones de tipos de datos y objetos
-begin
-  
-end aaa;
-------------------------------------------------------------
-
+[estructura de vhdl.txt](https://github.com/NiccolasR/VHDL/files/6054891/estructura.de.vhdl.txt)
 
 Useful links:
 - http://www.cs.columbia.edu/~sedwards/presentations/2018-vcf-fpga.pdf
